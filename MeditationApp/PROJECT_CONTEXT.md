@@ -18,6 +18,9 @@ https://github.com/appdepp/MeditationApp
 ## Сборка
 ./gradlew assembleDebug
 
+## Техническое задание
+TECH_SPEC.md
+
 ## APK
 app/build/outputs/apk/debug/app-debug.apk
 
