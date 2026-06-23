@@ -6,6 +6,7 @@
 
 - PROJECTS_INDEX.md — индекс активных и отложенных проектов
 - ROADMAP.md — общий план развития хаба
+- MeditationApp/ — отдельная память Android-приложения для медитаций
 - Project_Alpha/ — персональный AI и долговременная память
 - Telegram_Bots/ — Telegram-боты и автоматизация через Telegram
 - Streamlit_Apps/ — Streamlit-приложения и быстрые веб-инструменты

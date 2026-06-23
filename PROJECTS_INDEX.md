@@ -10,7 +10,7 @@
 Описать систему памяти и минимальный MVP.
 ---
 
-## Archive/MeditationApp
+## MeditationApp
 Статус: Прототип
 
 Цель:
