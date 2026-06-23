@@ -8,6 +8,8 @@
 - [ ] Проверить sound picker
 - [ ] Добавить локальные MP3-фоны: forest, rain, river, ocean, wind, city, grass, buddha temple
 - [ ] Сделать микс: MP3-фон 75%, частотный слой AudioTrack 25%
+- [ ] Добавить MP3 мужского голоса для Session 1 в app/src/main/res/raw/
+- [ ] Реализовать запуск/остановку voice-over вместе с дыхательной сессией
 - [ ] Проверить сборку APK
 
 ## Позже
