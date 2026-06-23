@@ -42,7 +42,18 @@ app/build/outputs/apk/debug/app-debug.apk
 - Clarity
 - Sleep
 
-Звук генерируется в коде через Android AudioTrack, без mp3-файлов.
+Текущее приложение генерирует звук в коде через Android AudioTrack.
+Целевое решение по ТЗ: основной звук должен идти из локальных MP3-фонов, а частоты должны остаться тихим слоем примерно 25% от основного звука.
+
+Целевые MP3-фоны:
+- Forest
+- Rain
+- River
+- Ocean
+- Wind
+- City
+- Grass
+- Buddha Temple
 
 ## Важные правила
 Перед изменениями:
